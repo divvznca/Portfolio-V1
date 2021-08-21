@@ -52,13 +52,13 @@ nav .logo{
     display: flex;
     flex-direction: column;
 min-height: 15em;    
-height: 860px;
+height: 1000px;
 align-self: center;
 background-repeat: no-repeat;
 background-size: cover;
 align-items: flex-end;
 justify-content:flex-start;
-background-image:url("/images/Doggie.png"); 
+background-image:url("/images/Mainheroimage.png"); 
    
 }
 
@@ -128,7 +128,7 @@ background-repeat: no-repeat;
 background-size: cover;
 align-items: center;
 justify-content: flex-start;
-background-image:url("/images/Doggie.png");    
+background-image:url("/images/Mainheroimage.png");    
 background-position-x: center;
 }
 
@@ -302,6 +302,7 @@ h3{
   font-family: roboto, sans-serif;
   align-items: center;
   justify-content: center;
+  color: #000000;
 }
 
 .col-text h4{
