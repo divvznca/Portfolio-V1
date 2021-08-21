@@ -58,7 +58,7 @@ background-repeat: no-repeat;
 background-size: cover;
 align-items: flex-end;
 justify-content:flex-start;
-background-image:url("/images/Mainheroimage.png"); 
+background-image:url("/images/Doggie.png"); 
    
 }
 
@@ -122,13 +122,13 @@ button:hover
     display: flex;
     flex-direction: column;
 min-height: 15em;    
-height: 860px;
+height: 800px;
 align-self: center;
 background-repeat: no-repeat;
 background-size: cover;
 align-items: center;
 justify-content: flex-start;
-background-image:url("/images/Mainheroimage.png");    
+background-image:url("/images/Doggie.png");    
 background-position-x: center;
 }
 
